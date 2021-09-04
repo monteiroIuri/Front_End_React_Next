@@ -5,7 +5,7 @@ COMO RODAR A APLICAÇÃO
 
 ### Rodar a aplicação
 - npm run dev
-- 
+
 ### Acessar a aplicação no navegador
 - http://localhost:3000
 
