@@ -1,21 +1,25 @@
-COMO RODAR O PROJETO BAIXADO
-Instalar todas as dependencias indicadaS pelo package.json
-### npm install
+COMO RODAR A APLICAÇÃO
 
-Rodar o projeto
-### npm run dev
+### Instalar todas as dependencias indicadas pelo package.json
+- npm install
+
+### Rodar a aplicação
+- npm run dev
+- 
+### Acessar a aplicação no navegador
+- http://localhost:3000
 
 
+SEQUENCIA PARA CRIAR A APLICAÇÃO
 
-SEQUENCIA PARA CRIAR O PROJETO
-Criar o arquivo package
-### npm init
+### Criar o arquivo package
+- npm init
 
-Criar o projeto com Next.js
-### npm install next react react-dom
+### Criar a aplicação com Next.js
+- npm install next react react-dom
 
-Rodar o projeto 
-### npm run dev
+### Rodar a aplicação
+- npm run dev
 
-Acessar o projeto no navegador
-### http://localhost:3000
+### Acessar a aplicação no navegador
+- http://localhost:3000
